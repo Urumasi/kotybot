@@ -1,0 +1,4 @@
+class Config:
+	key = ""
+	sound_path = 'mmh.ogg'
+
