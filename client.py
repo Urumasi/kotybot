@@ -1,4 +1,5 @@
 import discord
+import logging
 from pygame import mixer
 
 class Bot(discord.Client):
